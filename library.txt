@@ -1,0 +1,16 @@
+The Great Gatsby,F. Scott Fitzgerald,1
+To Kill a Mockingbird,Harper Lee,1
+1984,George Orwell,0
+Pride and Prejudice,Jane Austen,1
+The Catcher in the Rye,J.D. Salinger,1
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1
+The Lord of the Rings,J.R.R. Tolkien,1
+The Hobbit,J.R.R. Tolkien,0
+Animal Farm,George Orwell,1
+The Alchemist,Paulo Coelho,1
+The Da Vinci Code,Dan Brown,0
+The Hunger Games,Suzanne Collins,1
+Gone with the Wind,Margaret Mitchell,1
+The Chronicles of Narnia,C.S. Lewis,0
+Lord of the Flies,William Golding,1
+The story of Rishi,RISHI KULSHRESTH,1
